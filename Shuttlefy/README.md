@@ -1,21 +1,19 @@
 
-# ⚡ Hackathon Project Template ⚡
-_This is a sample submission repository.
-Please [__fork this repo__](https://help.github.com/articles/fork-a-repo/) and use this as a starting point for your hackathon project._
 
-## Project Name
-### Team name
-#### Hackathon Track
+Shuttlefy
+Shuttlefy Labs
+DeFi
+Social Impact Track
 
-##### Region location
+Arnhem, Netherlands
 
 ##### Team Members
-- Teammate 1, role
-- Teammate 2, role
-- Teammate 3, role
+- Thomas 1, founder and coder
+- Asid 2, Researcher 
+- Abel  3, Digital designer
 
 #### Project Description
-Provide a clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engages the areas you've identified. What is the value of your approach? Who are the intended users?
+The passenger transport market in Germany is huge. With 82 million people, it's not surprising that there are over 1,000 companies in public transport alone. However, there are problems with the public transport system: long waiting times at the train stations, a lack of flexibility in bus schedules and limited options for carpooling. Adding to these problems, it can be difficult for new businesses to compete with larger, more established companies. That's why we love DeFi!
 
 #### Summary
 Describe the basic functionality of your project. What are the features you were able to implement? What features would you like to implement?
